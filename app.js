@@ -5,11 +5,11 @@ for (const slide of slides) {
     clearActiveClasses();
 
     slide.classList.add('active');
-  })
+  });
 }
 
 function clearActiveClasses() {
   slides.forEach((slide) => {
     slide.classList.remove('active');
-  })
+  });
 }
