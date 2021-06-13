@@ -27,7 +27,7 @@ body {
   margin: 8px;
   cursor: pointer;
   color: #fff;
-  flex: .5;
+  flex: 1;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
